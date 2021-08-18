@@ -25,8 +25,8 @@ spec:
             value: "3002"
         resources:
           limits:
-            cpu: 201m
-            memory: 257Mi
+            cpu: 202m
+            memory: 258Mi
           request:
-            cpu: 51m
-            memory: 65Mi
+            cpu: 52m
+            memory: 66Mi
